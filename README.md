@@ -17,6 +17,7 @@ A modern, interactive React web app to explore, search, and filter summer projec
    ```bash
    git clone https://github.com/Raj675592/SnT-projects.git
    cd snt-projects
+   
    ```
 2. **Install dependencies**
    ```bash
